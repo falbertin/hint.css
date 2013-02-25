@@ -2,10 +2,7 @@
 // 
 // Aggregates all other sass files.
 
-/*-------------------------------------*\
-	HINT.css - A CSS tooltip library
-\*-------------------------------------*/
-
+/* HINT.css - A CSS tooltip library */
 
 /**
  * HINT.css is a tooltip library made in pure CSS.
@@ -16,7 +13,6 @@
  * Release under The MIT License
  *
  */
-
 
 // root path needs to be specified because of a bug in grunt-sass 
 @import "src/hint-variables";
